@@ -7,3 +7,5 @@ My C++ solutions to Project Euler problems. Practicing algorithms and sharpening
 | Problem | Status | Solution | Notes |
 |--------:|:------:|:--------:|:-----:|
 
+⚙️ **Languages Used**: C++  
+🧪 **Learning Goals**: Algorithms, Optimization, Logic Design  
