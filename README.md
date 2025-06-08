@@ -9,6 +9,7 @@
 | Problem | Title                         | Status  |
 |---------|-------------------------------|---------|
 | 1       | Multiples of 3 and 5          | ✅ Done |
+|2        | Even Fibonacci numbers        | ✅ Done |
 <!-- Add more as you go -->
 
 ---
