@@ -1,12 +1,38 @@
-# 🧠 Project Euler Solutions in C++
+# Project Euler Solutions in C++
 
-My C++ solutions to Project Euler problems. Practicing algorithms and sharpening logic.
+🚀 This repository contains my C++ solutions to various [Project Euler](https://projecteuler.net/) problems. 
 
-## 📊 Progress Table
+---
 
-| Problem | Status | Solution | Notes |
-|--------:|:------:|:--------:|:-----:|
-|1 |solved| [problem 1 solution](https://github.com/Vedansh-Sethi/project-euler-solution/blob/main/solutions/problem_001.cpp) | [problem 1 notes](https://github.com/Vedansh-Sethi/project-euler-solution/blob/main/notes/problem_1.md)
+## ✅ Completed Problems
 
-⚙️ **Languages Used**: C++  
-🧪 **Learning Goals**: Algorithms, Optimization, Logic Design  
+| Problem | Title                         | Status  |
+|---------|-------------------------------|---------|
+| 1       | Multiples of 3 and 5          | ✅ Done |
+<!-- Add more as you go -->
+
+---
+
+## ⚙️ Tech Stack
+
+- Language: **C++17**
+- Tools: GCC / Clang / VS Code
+- Build: Manual (no Makefile needed for now)
+
+---
+
+## 🧠 Why This Repo?
+
+Because solving 100 math puzzles in C++ is the nerdy version of hitting the gym.  
+Also, it forces me to:
+- Practice C++ STL and low-level operations
+- Improve mathematical thinking and performance optimization
+- Keep my GitHub looking like I actually do stuff 😎
+
+---
+
+## 📌 How to Run
+
+```bash
+g++ problem1.cpp -o problem1
+./problem1
