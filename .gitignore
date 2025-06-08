@@ -1,0 +1,14 @@
+# compiled files
+*.exe
+*.out
+*.o
+
+# macOS junk
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# temporary files
+*.log
+*.tmp
