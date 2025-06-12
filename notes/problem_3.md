@@ -26,4 +26,3 @@ Steps:
 ```bash
 g++ prime_factor.cpp -o prime_factor
 ./prime_factor
-bash```

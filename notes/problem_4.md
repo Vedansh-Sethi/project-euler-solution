@@ -3,7 +3,7 @@ link to problem :- [largest palindrome product](https://www.hackerrank.com/conte
 
 # 🧮 Largest palindrome product
 
-This C++ program ams to find a palindrome under a certain limit.
+This C++ program aims to find a palindrome under a certain limit.
 
 ## 💡 Problem Insight
 
@@ -14,5 +14,5 @@ This C++ program ams to find a palindrome under a certain limit.
 ## 📦 How to Use
 
 ```bash
-g++ prime_factor.cpp -o prime_factor
+g++ problem_4.cpp -o prime_factor
 ./prime_factor
