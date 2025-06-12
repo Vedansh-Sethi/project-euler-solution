@@ -1,5 +1,5 @@
 # Problem 5
-link to problem :- [smallest multple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem?isFullScreen=true)
+link to problem :- [smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem?isFullScreen=true)
 
 # 🧮 Smallest multiple
 

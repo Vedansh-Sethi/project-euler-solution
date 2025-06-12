@@ -10,6 +10,10 @@
 |---------|-------------------------------|---------|
 | 1       | Multiples of 3 and 5          | ✅ Done |
 |2        | Even Fibonacci numbers        | ✅ Done |
+|3        | Largest Prime Factor          | ✅ Done|
+|4        | Largest palindrome product    | ✅ Done|
+|5        |Smallest multiple              | ✅ Done|
+|6        | Sum Square Difference         | ✅ Done|
 <!-- Add more as you go -->
 
 ---
