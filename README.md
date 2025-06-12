@@ -14,6 +14,7 @@
 |4        | Largest palindrome product    | ✅ Done|
 |5        |Smallest multiple              | ✅ Done|
 |6        | Sum Square Difference         | ✅ Done|
+|7        | 10001st prime                 | ✅ Done|
 <!-- Add more as you go -->
 
 ---
