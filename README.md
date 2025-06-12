@@ -15,7 +15,7 @@
 |5        |Smallest multiple              | ✅ Done|
 |6        | Sum Square Difference         | ✅ Done|
 |7        | 10001st prime                 | ✅ Done|
-
+|8        | Largest product in series              | ✅ Done|
 ---
 
 ## ⚙️ Tech Stack
