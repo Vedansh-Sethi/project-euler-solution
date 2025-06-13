@@ -1,5 +1,5 @@
 # Problem 9
-link to problem :- [Special Pythagorean triple](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen=true)
+link to problem :- [Special Pythagorean triple](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem?isFullScreen=true)
 
 # 🧮 Special Pythagorean triple
 

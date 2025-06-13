@@ -16,6 +16,8 @@
 |6        | Sum Square Difference         | ✅ Done|
 |7        | 10001st prime                 | ✅ Done|
 |8        | Largest product in series              | ✅ Done|
+|9        | Special Pythagorean triple              | ✅ Done|
+|10        | Summation of primes             | ✅ Done|
 ---
 
 ## ⚙️ Tech Stack
